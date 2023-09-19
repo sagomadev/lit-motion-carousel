@@ -1,3 +1,4 @@
+/* playground-fold */
 import { css } from "lit";
 
 export const styles = css`
@@ -10,7 +11,6 @@ export const styles = css`
     height: 200px;
     border-radius: 4px;
     background: gainsboro;
-    cursor: pointer;
   }
 
   .fit {
